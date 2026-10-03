@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Survey Platform Analytics Dashboard
+# Survey Platform Analytics Dashboard
 
 <img src="assets/survey-platform-dashboard.png" alt="Survey Platform Analytics Dashboard" width="100%"/>
 
