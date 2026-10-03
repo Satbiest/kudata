@@ -1,4 +1,4 @@
-# 📊 Survey Platform Analytics Dashboard
+# Survey Platform Analytics Dashboard
 
 ## Overview
 
