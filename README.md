@@ -21,9 +21,7 @@
 ![Dashboard](https://img.shields.io/badge/Dashboard-Analytics-6C63FF?style=flat)
 
 <br/><br/>
-
 [![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://datastudio.google.com/reporting/67cab36d-2b68-43e3-bb4b-7e5c5bcfb1e0)
-
 <br/><br/>
 
 [Overview](#-overview) •
