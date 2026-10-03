@@ -226,35 +226,7 @@ Raw Survey Platform Data
            │
            ▼
      Business Insights
-```text
-Raw Survey Platform Data
-           │
-           ▼
-     Data Collection
-           │
-           ▼
- Data Cleaning & Validation
-           │
-           ▼
-    Data Transformation
-           │
-           ▼
-    Metric Calculation
-           │
-           ▼
-      KPI Development
-           │
-           ▼
- Exploratory Data Analysis
-           │
-           ▼
-   Dashboard Development
-           │
-           ▼
- Visualization & Monitoring
-           │
-           ▼
-     Business Insights
+
 ```
 
 ---
