@@ -226,3 +226,13 @@ Raw Survey Platform Data
            │
            ▼
      Business Insights
+```text
+## 💼 Internship Information
+
+| Information | Details |
+|---|---|
+| **Role** | Data Analyst Intern |
+| **Company** | Kudata.id |
+| **Project** | Survey Platform Analytics Dashboard |
+| **Tools** | Looker Studio, Microsoft Excel |
+| **Focus Areas** | Data Analytics, Business Intelligence, Dashboard Development, Survey Analytics |
