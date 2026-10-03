@@ -3,7 +3,7 @@
 # Survey Platform Analytics Dashboard
 
 <a href="https://datastudio.google.com/reporting/67cab36d-2b68-43e3-bb4b-7e5c5bcfb1e0">
-  <img src="assets/survey-platform-dashboard.png"
+  <img src="assets/executive-overview.png"
        alt="Survey Platform Analytics Dashboard"
        width="100%"/>
 </a>
