@@ -2,7 +2,11 @@
 
 # Survey Platform Analytics Dashboard
 
-<img src="assets/survey-platform-dashboard.png" alt="Survey Platform Analytics Dashboard" width="100%"/>
+<a href="https://datastudio.google.com/reporting/67cab36d-2b68-43e3-bb4b-7e5c5bcfb1e0">
+  <img src="assets/survey-platform-dashboard.png"
+       alt="Survey Platform Analytics Dashboard"
+       width="100%"/>
+</a>
 
 <br/>
 
@@ -18,10 +22,14 @@
 
 <br/><br/>
 
+[![View Live Dashboard](https://img.shields.io/badge/View%20Live%20Dashboard-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)](https://datastudio.google.com/reporting/67cab36d-2b68-43e3-bb4b-7e5c5bcfb1e0)
+
+<br/><br/>
+
 [Overview](#-overview) •
 [Objectives](#-project-objectives) •
 [Dashboard](#-dashboard-sections) •
-[Tech Stack](#-tech-stack) •
+[Tech Stack](#️-tech-stack) •
 [Workflow](#-project-workflow) •
 [My Role](#-my-role) •
 [Repository](#-repository-structure)
@@ -39,6 +47,9 @@ The dashboard was designed to provide a comprehensive overview of survey platfor
 The project transforms raw survey platform data into structured and meaningful visual insights that support performance monitoring, engagement analysis, and data-driven decision-making.
 
 The dashboard was developed using **Looker Studio** for interactive visualization and **Microsoft Excel** for data preparation, transformation, validation, and analysis.
+
+> 🔗 **Live Dashboard:**  
+> [Survey Platform Analytics Dashboard — Looker Studio](https://datastudio.google.com/reporting/67cab36d-2b68-43e3-bb4b-7e5c5bcfb1e0)
 
 ---
 
@@ -82,12 +93,15 @@ It allows stakeholders to quickly monitor the most important platform metrics an
 
 - User Growth Trend
 - Survey Participation Trend
+- Survey Open Duration
 - Platform Activity Overview
 - Survey Performance Summary
 - Payment Performance Summary
 
 <p align="center">
-  <img src="assets/executive-overview.png" width="90%" alt="Executive Overview Dashboard"/>
+  <img src="assets/executive-overview.png"
+       width="90%"
+       alt="Executive Overview Dashboard"/>
 </p>
 
 ---
@@ -96,23 +110,32 @@ It allows stakeholders to quickly monitor the most important platform metrics an
 
 The **Survey Engagement & Performance** section focuses on evaluating how users participate in surveys and how effectively surveys achieve their participation targets.
 
-This section helps identify survey engagement patterns, completion performance, and participant behavior.
+This section helps identify survey engagement patterns, completion performance, participant behavior, and the relationship between survey rewards and participation.
+
+#### Key Metrics
+
+- Total Surveys
+- Total Participants
+- Average Reward
+- Average Survey Duration
 
 #### Analysis
 
-- Participant Progress
-- Survey Fulfillment Rate
-- Reward Distribution
-- Survey Duration
+- Participant Progress vs. Target
 - Participant Achievement vs. Target
 - Repeat Participation Rate
+- Reward vs. Participant Count
+- Payment Lag Day
+- Survey Duration
 - Survey Engagement Performance
 - Survey Completion Performance
 
 This analysis enables stakeholders to evaluate whether surveys are successfully attracting participants and achieving their predefined targets.
 
 <p align="center">
-  <img src="assets/survey-engagement.png" width="90%" alt="Survey Engagement and Performance Dashboard"/>
+  <img src="assets/survey-engagement.png"
+       width="90%"
+       alt="Survey Engagement and Performance Dashboard"/>
 </p>
 
 ---
@@ -123,28 +146,35 @@ The **User & Payment Analysis** section provides deeper insights into platform u
 
 The analysis combines demographic information with transaction-related metrics to provide a more comprehensive understanding of platform engagement.
 
+#### Key Metrics
+
+- Total Users
+- Paid Users
+- Total Payments
+- Average Payments
+
 #### User Analysis
 
-- User Demographics
+- Gender Distribution
 - Occupation Distribution
 - City Distribution
 - Education Level
-- User Distribution
 - User Characteristics
 
 #### Payment Analysis
 
 - Paid Users
 - Total Payment Amount
-- Payment Trends
-- Reward Distribution
+- Average Payment
+- Payment Amount Trend
 - Payment Activity
-- Payment Performance
 
-This section helps stakeholders better understand the characteristics of platform users and monitor reward and payment activities.
+This section helps stakeholders better understand the characteristics of platform users and monitor payment activities over time.
 
 <p align="center">
-  <img src="assets/user-payment-analysis.png" width="90%" alt="User and Payment Analysis Dashboard"/>
+  <img src="assets/user-payment-analysis.png"
+       width="90%"
+       alt="User and Payment Analysis Dashboard"/>
 </p>
 
 ---
@@ -167,7 +197,7 @@ This section helps stakeholders better understand the characteristics of platfor
 
 ## 🔄 Project Workflow
 
-The project followed an end-to-end data analytics workflow.
+The project followed an end-to-end data analytics workflow:
 
 ```text
 Raw Survey Platform Data
@@ -176,13 +206,13 @@ Raw Survey Platform Data
      Data Collection
            │
            ▼
-   Data Cleaning & Validation
+ Data Cleaning & Validation
            │
            ▼
-     Data Transformation
+    Data Transformation
            │
            ▼
-     Metric Calculation
+    Metric Calculation
            │
            ▼
       KPI Development
