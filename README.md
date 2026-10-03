@@ -268,3 +268,5 @@ Raw Survey Platform Data
 | **Project** | Survey Platform Analytics Dashboard |
 | **Tools** | Looker Studio, Microsoft Excel |
 | **Focus Areas** | Data Analytics, Business Intelligence, Dashboard Development, Survey Analytics |
+
+> **“Transforming data into meaningful insights that drive better decisions.”**
